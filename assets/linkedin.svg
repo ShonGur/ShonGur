@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <!-- Load official icon as an external image -->
+  <image href="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" x="0" y="0" width="40" height="40" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.15s"></animate>
+  </image>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <image href="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" x="0" y="0" width="40" height="40" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.22s"></animate>
+  </image>
+</svg>
